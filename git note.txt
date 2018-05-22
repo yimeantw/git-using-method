@@ -1,0 +1,21 @@
+New
+1.Create a repository on GitHub
+2.Clone to local repository
+git clone "repository name" "url" 
+3.put the document in the folder
+4.add file to stage
+git add .
+5.check the status
+git status
+6.commit file to repository
+git commit -m "commit note"
+7.push to github
+git push
+
+Continous
+1.Create a branch
+2.Check the url
+git remote -v
+git fetch origin
+git diff
+
